@@ -7,4 +7,5 @@
 > ### This is a fronted demo project for learn html, css, js
 > Link: [https://kundanchourasiya.github.io/TODO-App-Frontend-1/index.html](https://kundanchourasiya.github.io/Circular-Progress-Bar/)
  
-![image](https://github.com/user-attachments/assets/d5dd5148-9fa6-4286-ab43-84a7cf99abd5)
+![image](https://github.com/user-attachments/assets/0e02224d-35d0-4b13-9959-9f1bf3cb70d8)
+
