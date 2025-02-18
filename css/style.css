@@ -16,7 +16,7 @@ body{
 .header{
     position: absolute;
     top: 40px;
-
+    color: #00897b;
 }
 .skill{
     width: 160px;
@@ -71,7 +71,7 @@ svg{
 
 @keyframes anim{
     100%{
-        stroke-dashoffset: 165;
+        stroke-dashoffset: 108;  /*formula= 472-472*0.77=108 */
     }
     
 }
